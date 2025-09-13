@@ -5,7 +5,7 @@ desarrollado en el TFM podría integrarse en una aplicación práctica para
 protectoras de animales.
 
 ## 📑 Contenido 
-- **demo_notebook.ipynb** → Notebook de demostración con la función
+- **adoptapp_demo.py** → Notebook de demostración con la función
   `clasificar_adoptante()`, que devuelve *Apto / No apto* para perfiles ficticios.  
 - **README.md** → Este archivo, con la explicación.
 
