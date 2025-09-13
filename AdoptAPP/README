@@ -1,1 +1,20 @@
+# 🐾 AdoptAPP – Prototipo de aplicabilidad
 
+Este directorio contiene un **ejemplo simplificado** de cómo el modelo predictivo
+desarrollado en el TFM podría integrarse en una aplicación práctica para
+protectoras de animales.
+
+## 📑 Contenido 
+- **demo_notebook.ipynb** → Notebook de demostración con la función
+  `clasificar_adoptante()`, que devuelve *Apto / No apto* para perfiles ficticios.  
+- **README.md** → Este archivo, con la explicación.
+
+## 🎯 Objetivo
+El propósito no es ofrecer una app completa, sino ilustrar el concepto de
+*productivización*. AdoptAPP funcionaría como:
+
+1. Un(a) posible adoptante introduce sus datos.  
+2. El sistema devuelve una **clasificación inmediata** (*Apto / No apto*) junto
+   con los datos más importantes. El resultado llega al email de la protectora.
+3. El resultado sirve como **filtro preventivo** y apoyo a la decisión humana,
+   nunca como sustituto.
