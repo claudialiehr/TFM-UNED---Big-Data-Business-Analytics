@@ -8,11 +8,11 @@ import json
 st.set_page_config(
     page_title="AdoptAPP - ¡Adopta no compres!",
     layout="centered",
-    initial_sidebar_state="collapsed"  # 👉 Sidebar cerrada por defecto (icono ☰ arriba a la izquierda)
+    initial_sidebar_state="collapsed"  
 )
 
 # -------------------------------
-# Menú lateral (se abre con ☰)
+# Menú lateral 
 # -------------------------------
 with st.sidebar:
     st.title("☰ Menú")
