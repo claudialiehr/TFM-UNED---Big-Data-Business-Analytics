@@ -29,6 +29,8 @@ El trabajo combina:
   - `05_Productivizacion.ipynb` → Ejemplo de clasificación de perfiles (Apto / No apto).  
 
 - `anexos/`  
-  - Exportaciones en HTML de los notebooks para consulta rápida.  
+  - Exportaciones en HTML de los notebooks para consulta rápida.
+
+ “Este proyecto fue desarrollado en Google Colab (Python 3.10, librerías estándar de análisis de datos como pandas, scikit-learn, matplotlib, etc.).”
 
 
