@@ -2,9 +2,11 @@
 
 ### Trabajo Fin de Máster: Sistema inteligente para apoyar la selección de adoptantes en protectoras de animales  
 
-Autora: **[Tu nombre]**  
-Tutor/a: **[Nombre del tutor/a]**  
-Convocatoria: **[Mes, Año]**  
+Repositorio del **Trabajo Fin de Máster (TFM) – UNED**  
+Máster en Big Data y Business Analytics  
+Autora: Claudia Liehr
+Tutores: Carlos Ortega, Santiago Mota  
+Convocatoria: Septiembre 2025
 
 ---
 
