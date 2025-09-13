@@ -23,12 +23,11 @@ El trabajo combina:
 ---
 
 ## 📂 Estructura del repositorio
-- `notebooks/`  
-  - `01_EDA.ipynb` → Análisis exploratorio.  
-  - `02_Modelo_Predictivo.ipynb` → Entrenamiento y comparación de modelos.  
-  - `03_Validacion.ipynb` → Ajuste de umbral y validación práctica.  
-  - `04_Interpretabilidad.ipynb` → Coeficientes, *Permutation Importance* y LIME.  
-  - `05_Productivizacion.ipynb` → Ejemplo de clasificación de perfiles (Apto / No apto).  
+- `notebooks/`
+  - `01_Limpieza_de_Datos`→ Limpieza y preparación
+  - `02_EDA.ipynb` → Análisis exploratorio de datos.  
+  - `03_Modelo_Predictivo.ipynb` → Entrenamiento y comparación de modelos.  
+  - `04_Geolocalización_CARTO.ipynb` → Visualización gráfica CARTO
 
 - `anexos/`  
   - Exportaciones en HTML de los notebooks para consulta rápida.
