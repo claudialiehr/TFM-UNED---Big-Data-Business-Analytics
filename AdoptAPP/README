@@ -6,12 +6,12 @@ Este directorio contiene un **ejemplo simplificado** de cómo el modelo predicti
 desarrollado en el TFM podría integrarse en una aplicación práctica para
 protectoras de animales.
 
-## 📑 Contenido 
+## Contenido 
 - **adoptapp_demo.py** → Notebook de demostración con la función
   `clasificar_adoptante()`, que devuelve *Apto / No apto* para perfiles ficticios.  
 - **README.md** → Este archivo, con la explicación.
 
-## 🎯 Objetivo
+## Objetivo
 El propósito no es ofrecer una app completa, sino ilustrar el concepto de
 *productivización*. AdoptAPP funcionaría como:
 
